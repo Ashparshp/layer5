@@ -39,7 +39,7 @@ const CollaborationFeatureWrapper = styled.div`
 
     h2 {
       span {
-        color: #00D3A9;
+        color: #00b39f;
       }
     }
 
